@@ -21,4 +21,6 @@ public class UserRecipes {
     public void setRecipe_id(int recipe_id) {
         this.recipe_id = recipe_id;
     }
+
+
 }
